@@ -1,0 +1,26 @@
+_repo: Scientific-American-Supplement-No.-1178-June-25-1898_18265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18265-h/images/cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Scientific American
+gutenberg_issued: '2006-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Science -- Periodicals'
+title: Scientific American Supplement, No. 1178, June 25, 1898
+url: http://www.gutenberg.org/ebooks/18265
